@@ -25,4 +25,4 @@ You can install these dependencies using the `requirements.txt` file provided.
 2. Navigate to the project directory.
 3. Install the required dependencies using the following command:
    `pip install -r requirements.txt`
-run the main.py file to start the application
+###run the main.py file to start the application
